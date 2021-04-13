@@ -1192,7 +1192,6 @@ footer .line {
 
 .button:hover {
     cursor: pointer;
-    background: #FFFFFF;
     box-sizing: border-box;
     box-shadow: 0px 5px 10px rgb(155, 155, 155);
 }
@@ -1203,7 +1202,6 @@ footer .line {
 
 .on-top:hover {
     cursor: pointer;
-    background: #FFFFFF;
     box-sizing: border-box;
     box-shadow: 0px 5px 10px rgba(155, 155, 155, 0.9);
 }
