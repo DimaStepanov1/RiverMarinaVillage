@@ -1,0 +1,94 @@
+@media screen and (max-width:1601px) {
+    .video {
+        width: 1050px;
+        height: 700px;
+    }
+    .visual {
+        width: 700px;
+        height: 660px;
+        top: 10%;
+    }
+    .advantages {
+        width: 850px;
+        height: 600px;
+    }
+    .third img {
+        width: 900px;
+        height: 550px;
+    }
+    .choose {
+        top: -6%;
+    }
+    .fifth img {
+        width: 900px;
+        height: 620px;
+        top: 5%;
+    }
+    .infrastructure {
+        width: 800px;
+        height: 605px;
+    }
+    .cottages {
+        width: 900px;
+        height: 750px;
+    }
+    .sixth img {
+        width: 900px;
+        height: 750px;
+        top: 3%;
+    }
+    .seventh img {
+        width: 900px;
+        height: 700px;
+    }
+    .area {
+        width: 900px;
+        height: 700px;
+    }
+    form {
+        width: 785px;
+        height: 580px;
+    }
+    .eighth {
+        margin-top: 200px;
+    }
+    .eighth img {
+        width: 750px;
+        height: 700.86px;
+    }
+    .seventh .line {
+        top: 85%;
+    }
+    .area {
+        top: 5%;
+    }
+    form .line {
+        left: -7%;
+        width: 900px;
+    }
+    .second .line {
+        width: 600px;
+    }
+    .third .line,
+    .fourth .line,
+    .fifth .line,
+    .sixth .line,
+    .seventh .line {
+        width: 800px;
+    }
+    .between-section {
+        margin-top: 160px;
+        margin-bottom: 110px;
+    }
+    .this {
+        margin-top: 80px;
+        margin-bottom: 100px;
+    }
+    .this1 {
+        margin-bottom: 160px;
+        margin-top: 120px;
+    }
+    .reverse {
+        width: 900px !important;
+    }
+}
