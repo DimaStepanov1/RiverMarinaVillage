@@ -59,7 +59,7 @@ $("#11").click(function() {
     $("#6").fadeOut(0).addClass("hidden");
     $("#8").fadeOut(0).addClass("hidden");
     $("#10").fadeOut(0).addClass("hidden");
-    $("#12").fadeIn(1000).removeClass("hidden").delay(2000);
+    $("#12").fadeIn(1000).removeClass("hidden");
 });
 
 
