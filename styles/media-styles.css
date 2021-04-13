@@ -92,3 +92,58 @@
         width: 900px !important;
     }
 }
+@media screen and (max-width: 1367px) {
+    .sale {
+        width: 800px;
+    }
+    .sale h1 {
+        font-size: 55px;
+    }
+    .specs {
+        width: 700px;
+    }
+    .video {
+        width: 800px;
+    }
+    .third img {
+        width: 730px;
+        height: 550px;
+    }
+    .advantages {
+        width: 750px;
+        height: 570px;
+    }
+    .fifth img {
+        width: 730px;
+        height: 550px;
+    }
+    .infrastructure {
+        width: 700px;
+        height: 550px;
+    }
+    .fifth .line {
+        top: 94%;
+    }
+    .sixth img {
+        width: 700px;
+    }
+    .reverse {
+        width: 700px !important;
+    }
+    form {
+        width: 650px;
+    }
+    form .line,
+    form .under-line {
+        width: 675px;
+        left: -2%;
+    }
+    .eighth img {
+        width: 650px;
+        height: 690px;
+    }
+    .connect {
+        margin-right: 0;
+        margin-left: 5%;
+    }
+}
